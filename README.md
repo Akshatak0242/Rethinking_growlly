@@ -1,1 +1,1 @@
-# Rethinking_growlly
+# Rethinking_PurePixel
